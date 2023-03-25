@@ -1,0 +1,37 @@
+body{
+    font-family: Verdana, sans-serif;
+}
+
+h1{
+    text-align: center;
+    color: white;
+    background-color: salmon;
+}
+
+h2{
+    color: black;
+    text-align: center;
+    }
+
+.code{
+    font-family: Lucida, Courier, monospace;
+    background-color: peachpuff;
+}
+
+table {
+    border: 2px solid turquoise;
+    width: 650px;
+    margin: 0 auto;
+  }
+  
+  thead {
+    background-color: darkturquoise;
+  }
+  
+  td {
+    border-top: 1px solid turquoise;
+  }
+
+  th{
+      color: white;
+  }
