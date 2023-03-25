@@ -1,21 +1,45 @@
-body{
+body {
     font-family: Verdana, sans-serif;
 }
 
-h1{
+h1 {
     text-align: center;
     color: white;
     background-color: salmon;
 }
 
-h2{
+h2 {
     color: black;
     text-align: center;
     }
 
-.code{
+.taglight {
     font-family: Lucida, Courier, monospace;
-    background-color: peachpuff;
+    background-color: mistyrose;
+}
+
+.tagdark {
+  background-color: rosybrown;
+}
+
+.namelight {
+    font-family: Lucida, Courier, monospace;
+    background-color: mistyrose;
+}
+
+.namedark {
+  font-family: Lucida, Courier, monospace;
+  background-color: rosybrown;
+}
+
+.descriptionlight {
+    font-family: Lucida, Courier, monospace;
+    background-color: mistyrose;
+}
+
+.descriptiondark {
+    font-family: Lucida, Courier, monospace;
+    background-color: rosybrown;
 }
 
 table {
@@ -32,6 +56,14 @@ table {
     border-top: 1px solid turquoise;
   }
 
-  th{
+  th {
       color: white;
+  }
+
+  .attributelight {
+    background-color: mistyrose;
+  }
+
+  .attributedark {
+    background-color: rosybrown;
   }
